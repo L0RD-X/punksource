@@ -1,0 +1,18 @@
+<?php
+
+?>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link type="stylesheet" href="css/all.css">
+  <script src="js/main.js"></script>
+  <title>SteamPunk | Home</title>
+</head>
+<body>
+  <?php
+    echo "<h1>SteamPunk Dev</h1>";
+  ?>
+</body>
