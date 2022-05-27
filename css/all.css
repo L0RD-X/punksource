@@ -11,13 +11,13 @@ h1{
   text-shadow:0 0 5px white;
 }
 
-button{
+.enviar{
   color:#fff;
-  background:#ccccff;
+  background:#aaaaff;
   text-shadow:0 0 2px black;
   border:none;
   border-radius:6px;
 }
-button::actived{
-  background:#aaaaff;
+.enviar:actived{
+  background:#33f;
 }
