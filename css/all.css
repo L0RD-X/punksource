@@ -10,10 +10,11 @@ body{
 h1{
   text-shadow:0 0 5px white;
   animation: pisca 3s infinite;
+  color:#cc0
 }
 
 .enviar{
-  color:#ff0;
+  color:#fff;
   background:#aaaaff;
   text-shadow:0 0 2px black;
   border:none;
