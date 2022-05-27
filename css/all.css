@@ -9,6 +9,7 @@ body{
 
 h1{
   text-shadow:0 0 5px white;
+  animation: pisca 1s infinite;
 }
 
 .enviar{
@@ -20,4 +21,12 @@ h1{
 }
 .enviar:actived{
   background:#33f;
+}
+/*________Animation______*/
+@keyframe pisca{
+  
+  25%{color:#eee;text-shadow:0 0 10px white}
+  50%{color:#ddd;text-shadow:0 0 15px white}
+  75%{color:#eee;text-shadow:0 0 10px white}
+  100%{color:#ddd;text-shadow:0 0 10px white}
 }
