@@ -21,7 +21,7 @@ h1{
   border-radius:6px;
 }
 .enviar:actived{
-  background:#33f;
+  background:#00f;
 }
 /*________Animation______*/
 @keyframes pisca{
