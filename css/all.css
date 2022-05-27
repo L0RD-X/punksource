@@ -25,8 +25,8 @@ h1{
 /*________Animation______*/
 @keyframes pisca{
   
-  25%{color:#eee;text-shadow:0 0 10px white}
-  50%{color:#ddd;text-shadow:0 0 15px white}
-  75%{color:#eee;text-shadow:0 0 10px white}
-  100%{color:#ddd;text-shadow:0 0 10px white}
+  25%{color:#e00;text-shadow:0 0 10px white}
+  50%{color:#d00;text-shadow:0 0 15px white}
+  75%{color:#e00;text-shadow:0 0 10px white}
+  100%{color:#d00;text-shadow:0 0 10px white}
 }
