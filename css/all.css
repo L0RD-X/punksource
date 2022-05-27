@@ -23,7 +23,7 @@ h1{
   background:#33f;
 }
 /*________Animation______*/
-@keyframe pisca{
+@keyframes pisca{
   
   25%{color:#eee;text-shadow:0 0 10px white}
   50%{color:#ddd;text-shadow:0 0 15px white}
