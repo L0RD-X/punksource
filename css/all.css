@@ -1,0 +1,12 @@
+*{left:0;top:0;}
+body{
+  color:#fff;
+  background:#1c1c1c;
+  font-family:'Arial', bolder, 16pt;
+  text-align:center;
+  align-items:center;
+}
+
+h1{
+  text-shadow:0 0 5px white;
+}
